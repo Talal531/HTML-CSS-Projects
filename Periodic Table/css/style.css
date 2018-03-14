@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: arial;
+    font-weight: bold;
+}
+
+body{
+    background-color: #000;
+    color: #fff;
+    margin: 0px 50px 0px 150px;
+}
+th{
+    padding: 15px;
+}
+.skyblue{
+    background-color: rgb(0,182,188);
+}
+.blue{
+    background-color: rgb(27,103,201);
+}
+.lightpurple{
+    background-color: rgb(161,102,158);
+}
+.pink{
+    background-color: rgb(245,57,81);
+}
+.darkblue{
+    background-color: rgb(0,77,116);
+}
+.darkpurple{
+    background-color: rgb(87,46,86);
+}
+.orange{
+    background-color: rgb(243,109,74);
+}
+.yellow{
+    background-color: rgb(245,182,89);
+}
+.gray{
+    background-color: rgb(133,153,152);
+}
+.green{
+    background-color: rgb(88,208,110);
+}
+.darkslategray{
+    background-color: rgb(50,144,144);
+}
+.fontsize{
+    font-size: 10px;
+}
